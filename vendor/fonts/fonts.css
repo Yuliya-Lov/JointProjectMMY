@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Poppins";
+  font-weight: 800;
+  font-style: normal;
+  src:  url(./Poppinsextrabold.woff) format('woff'),
+        url(./Poppinsextrabold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-style: normal;
+  src:  url(./Robotobold.woff) format('woff'),
+        url(./Robotobold.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  src:  url(./Rubikmedium.woff) format('woff'),
+        url(./Rubikmedium.woff2) format('woff2');
+}

@@ -1,0 +1,8 @@
+.header__nav {
+  justify-self: flex-end;
+  display: flex;
+  gap: 55px;
+  margin-right: 118px;
+  min-height: 37px;
+  align-self: end;
+}

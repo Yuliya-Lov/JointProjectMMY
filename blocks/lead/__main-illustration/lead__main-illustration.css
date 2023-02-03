@@ -1,0 +1,9 @@
+.lead__main-illustration {
+  grid-column: 3/4;
+  grid-row: 1/5;
+  background: url(../../../images/left_main_illustration.png),
+              url(../../../images/main_illustration.jpg);
+  background-size: 98px, 100%;
+  background-repeat: no-repeat, no-repeat;
+  background-position: 15px 90px, center;
+}

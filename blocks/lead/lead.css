@@ -1,0 +1,17 @@
+.lead {
+  display: grid;
+  width: 100%;
+  max-width: 1250px;
+  min-height: 725px;
+  grid-template-columns: 178px 462px auto;
+  grid-template-rows: 170px 260px 160px auto;
+  margin-left: 116px;
+  margin-right: 50px;
+  margin-top: 50px;
+  padding-bottom: 100px;
+  background-image: url(../../images/mini_fox.jpg),
+                    url(../../images/spiral_arrow.png);
+  background-size: 98px 99px, 156px 136px;
+  background-repeat: no-repeat;
+  background-position: 0 40px, 528px 651px;
+  }

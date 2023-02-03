@@ -1,0 +1,9 @@
+.button_color_orange {
+  background: #FF6E30;
+  box-shadow: 0px 0px 20px rgba(114, 43, 254, 0.25);
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  color: #FFFFFF;
+}

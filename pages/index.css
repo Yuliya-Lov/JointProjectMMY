@@ -1,0 +1,24 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_color/button_color_black.css);
+@import url(../blocks/button/_color/button_color_orange.css);
+@import url(../blocks/button/_size/button_size_xl.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav-item/header__nav-item.css);
+@import url(../blocks/header/__nav-item/_active/header__nav-item_active.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__color-box/lead__color-box.css);
+@import url(../blocks/lead/__color-text/lead__color-text.css);
+@import url(../blocks/lead/__button/lead__button.css);
+@import url(../blocks/lead/__link/lead__link.css);
+@import url(../blocks/lead/__link-image/lead__link-image.css);
+@import url(../blocks/lead/__link-text/lead__link-text.css);
+@import url(../blocks/lead/__main-illustration/lead__main-illustration.css);
+
