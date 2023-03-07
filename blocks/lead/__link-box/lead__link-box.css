@@ -1,0 +1,8 @@
+.lead__link-box {
+  grid-column: 2/3;
+  grid-row: 4/5;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  height: min-content;
+}

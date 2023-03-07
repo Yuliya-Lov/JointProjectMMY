@@ -1,0 +1,6 @@
+.header__nav {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 118px;
+  min-height: 30px;
+}

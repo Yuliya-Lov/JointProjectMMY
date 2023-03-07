@@ -1,0 +1,9 @@
+.button {
+  border-radius: 10px;
+  text-align: center;
+  border: none;
+}
+
+.button:hover {
+  opacity: .7;
+}

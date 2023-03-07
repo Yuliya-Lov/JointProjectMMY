@@ -1,0 +1,8 @@
+.header__list {
+  justify-self: flex-end;
+  list-style: none;
+  min-height: 30px;
+  display: flex;
+  gap: 55px;
+  align-self: center;
+}
