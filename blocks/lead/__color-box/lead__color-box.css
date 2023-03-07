@@ -4,11 +4,17 @@
   align-self: end;
   justify-self: center;
   display: inline-block;
-  width: 142.6px;
+  width: 143px;
   height: 68px;
-  background-color: #FFF4F1;
+  margin-bottom: 8px;
+  background-image: url(../../../images/NFT.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /* background-color: #FFF4F1;
   border: 1px solid #DEA694;
   border-radius: 2px;
   text-align: center;
-  transform: translateY(-3px);
+  transform: translateY(-3px); */
 }

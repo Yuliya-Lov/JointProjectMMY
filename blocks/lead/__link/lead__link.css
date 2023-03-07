@@ -1,8 +1,7 @@
 .lead__link {
-  grid-column: 2/3;
-  grid-row: 4/5;
-  display: inline-flex;
-  align-items: flex-start;
+  margin: 0;
+  padding: 0;
   text-decoration: none;
-  height: min-content;
+  line-height: 1;
 }
+

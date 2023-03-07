@@ -1,8 +1,6 @@
 .header__nav {
-  justify-self: flex-end;
   display: flex;
-  gap: 55px;
+  justify-content: flex-end;
   margin-right: 118px;
-  min-height: 37px;
-  align-self: end;
+  min-height: 30px;
 }
